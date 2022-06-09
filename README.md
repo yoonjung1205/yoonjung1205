@@ -28,6 +28,6 @@
 
 ## 📮 Contacts
 
-[![Gmail Contact](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yoonjung1205@gmail.com)
+[![Gmail Contact](https://img.shields.io/badge/yoonjung1205@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yoonjung1205@gmail.com)
 
 
